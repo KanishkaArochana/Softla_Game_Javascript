@@ -11,6 +11,8 @@ This file defines the structure of the game using HTML.
 
 #### HTML Boilerplate:
 
+
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
